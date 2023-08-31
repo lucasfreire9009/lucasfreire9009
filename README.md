@@ -74,7 +74,7 @@
   
 <!-- <hr/> -->
 <h3>Projetos desenvolvidos</h3>
-<p>Segue alguns projetos desenvolvidos ou que tive participações</p>
+<p>Segue alguns projetos desenvolvidos para terceiros ou que tive participações</p>
 <div class="pin-layout">  
   <div class="card">
     <h3>Memprega</h3>
@@ -107,6 +107,31 @@
   </div>  
   <div>
     <h3>SOSTruck</h3>
+    <table border="0">
+      <tr>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/001.png" width="100px"/>
+        </td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/002.png" width="100px"/>
+        </td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/003.png" width="100px"/>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3">
+          SOS Truck é um aplicativo desenvolvido para conectar caminhoneiros a empresas que prestam serviços de manutenção e afins para os usuários
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3">
+          <small>
+            Desenvolvido em React Native no mobile e backend feito em Node/Express
+          </small>
+        </td>
+      </tr>
+    </table>
   </div>
   <div>
     <h3>Aplicativos para supermercados</h3>
