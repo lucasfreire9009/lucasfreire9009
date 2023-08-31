@@ -57,11 +57,15 @@
         <img src="https://storage.googleapis.com/arquivos-pessoais/whatsapp_icon.png" width="25px"/>
       </a>
     </td>
+    <td>18 99146 8285</td>
+  </tr>
+  <tr>
     <td>
       <a href="mailto:lukas.freire2011@gmail.com" target="_blank">
         <img src="https://storage.googleapis.com/arquivos-pessoais/Gmail_Icon.png" width="25px"/>
       </a>
     </td>
+    <td>lukas.freir2011@gmail.com</td>
   </tr>
 </table>
   
