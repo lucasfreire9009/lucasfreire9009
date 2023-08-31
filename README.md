@@ -58,7 +58,7 @@
       </a>
     </td>
     <td>
-      <a href="emailto:lukas.freire2011@gmail.com" target="_blank">
+      <a href="mailto:lukas.freire2011@gmail.com" target="_blank">
         <img src="https://storage.googleapis.com/arquivos-pessoais/Gmail_Icon.png" width="25px"/>
       </a>
     </td>
