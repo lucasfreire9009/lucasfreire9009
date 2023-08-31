@@ -1,10 +1,11 @@
 <h2>Olá mundo, meu nome é Lucas Freire &#9996;</h2>
 <p>Bem vindo a minha página!</p>
 <p>
-  Sou programador freelance fullstack, com foco em aplicativo web/mobile, e estou disponivel para quem quiser desenvolver projetos
+  Sou programador freelance fullstack, com foco em aplicativo web/mobile, e estou horários disponiveis para quem quiser desenvolver projetos
   ou para participar de equipes de desenvolvimento
 </p>
 <h3>Minhas habilidades</h3>
+
 <table border="0">
   <tr>
     <th colspan="3">Frontend</th>
@@ -47,6 +48,23 @@
     <td>Looker Studio</td>    
   </tr>
 </table>
+
+<h4>Meus contatos</h4>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://whatsapp.com.br" target="_blank">
+        <img src="https://storage.googleapis.com/arquivos-pessoais/whatsapp_icon.png" width="25px"/>
+      </a>
+    </td>
+    <td>
+      <a href="emailto:lukas.freire2011@gmail.com" target="_blank">
+        <img src="https://storage.googleapis.com/arquivos-pessoais/Gmail_Icon.png" width="25px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+  
 <!-- <hr/> -->
 <h3>Projetos desenvolvidos</h3>
 <p>Segue alguns projetos desenvolvidos ou que tive participações</p>
