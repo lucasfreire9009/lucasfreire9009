@@ -39,14 +39,38 @@
     <td>Docker</td>
    </tr>
    <tr>     
-    <td colspan="3"></td>
+    <td>Web 3.0</td>
+    <td colspan="2"></td>
     <!--Backend-->
+    <td>Solidity</td>
     <td>Metabase</td>
-    <td>Looker Studio</td>
-    <td></td>
+    <td>Looker Studio</td>    
   </tr>
 </table>
 <!-- <hr/> -->
 <h3>Projetos desenvolvidos</h3>
-
 <p>Segue alguns projetos desenvolvidos ou que tive participações</p>
+<div class="pin-layout">  
+  <div class="card">
+    <h3>Memprega</h3>
+  </div>  
+  <div>
+    <h3>SOSTruck</h3>
+  </div>
+  <div>
+    <h3>Aplicativos para supermercados</h3>
+  </div>
+  <div>
+    <h3>App de chamados</h3>
+  </div>
+  <div>
+    <h3>Publicações de processos</h3>
+  </div>
+</div>
+<!-- <styles>
+  .card {
+    border-radius: 10px;
+    margin: 10px;
+  }
+</styles>
+ -->
