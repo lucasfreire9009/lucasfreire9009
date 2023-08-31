@@ -78,6 +78,18 @@
 <div class="pin-layout">  
   <div class="card">
     <h3>Memprega</h3>
+    <table border="0">
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          Memprega é um aplicativo que conecta candidatos a recrutadores e compartilhar vagas de empregos
+        </td>
+      </tr>
+    </table>
   </div>  
   <div>
     <h3>SOSTruck</h3>
