@@ -81,13 +81,13 @@
     <table border="0">
       <tr>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/001.png" width="80px"/>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/001.png" width="100px"/>
         </td>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/002.png" width="80px"/>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/002.png" width="100px"/>
         </td>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/003.png" width="80px"/>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/003.png" width="100px"/>
         </td>
       </tr>
       <tr>
