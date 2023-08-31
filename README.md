@@ -53,7 +53,7 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://whatsapp.com.br" target="_blank">
+      <a href="https://api.whatsapp.com/send?phone=5518991468285" target="_blank">
         <img src="https://storage.googleapis.com/arquivos-pessoais/whatsapp_icon.png" width="25px"/>
       </a>
     </td>
