@@ -67,10 +67,3 @@
     <h3>Publicações de processos</h3>
   </div>
 </div>
-<!-- <styles>
-  .card {
-    border-radius: 10px;
-    margin: 10px;
-  }
-</styles>
- -->
