@@ -1,8 +1,7 @@
 <h2>Olá mundo, meu nome é Lucas Freire &#9996;</h2>
 <p>Bem vindo a minha página!</p>
 <p>
-  Sou programador freelance fullstack, com foco em aplicativo web/mobile, e estou horários disponiveis para quem quiser desenvolver projetos
-  ou para participar de equipes de desenvolvimento
+  Como programador freelance fullstack, minha expertise abrange o desenvolvimento de aplicativos web e mobile. Atualmente, possuo disponibilidade de horários para a colaboração em projetos diversos ou para integrar equipes de desenvolvimento. Estou ansioso para contribuir com meu conhecimento e habilidades, entregando soluções de alta qualidade
 </p>
 <h3>Minhas habilidades</h3>
 
