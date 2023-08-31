@@ -80,13 +80,27 @@
     <h3>Memprega</h3>
     <table border="0">
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/001.png" width="180px"/>
+        </td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/002.png" width="180px"/>
+        </td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/memprega/003.png" width="180px"/>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3">        
+          Memprega é um aplicativo que conecta candidatos a recrutadores para compartilhar vagas de empregos          
+        </td>
       </tr>
       <tr>
         <td>
-          Memprega é um aplicativo que conecta candidatos a recrutadores e compartilhar vagas de empregos
+          <small>
+            Desenvolvido em Angular 2 (versão web) e aplicativo feito em Flutter com webview para carregar o aplicatico web,
+            no backend feito em Php
+          </small>
         </td>
       </tr>
     </table>
