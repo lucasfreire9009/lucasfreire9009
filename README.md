@@ -126,20 +126,55 @@
       </tr>
       <tr>
         <td colspan="3">
-          <small>
-            Desenvolvido em React Native no mobile e backend feito em Node/Express
-          </small>
+          Desenvolvido em React Native no mobile e backend feito em Node/Express
+        </td>
+      </tr>
+    </table>
+  </div>  
+  <div>
+    <h3>App de chamados</h3>
+    <table>
+      <tr>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="200px"/>
+        </td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/002.png" width="200px"/>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          Aplicativo para registrar tarefas e chamados para equipes internas ou entre seus clientes, responsivo para vários tamanhos de tela
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          Desenvolvido o seu frontend em Angular 2 e backend em Node/Express
         </td>
       </tr>
     </table>
   </div>
   <div>
-    <h3>Aplicativos para supermercados</h3>
-  </div>
-  <div>
-    <h3>App de chamados</h3>
-  </div>
-  <div>
     <h3>Publicações de processos</h3>
+    <table>
+      <tr>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/001.png" width="200px"/>
+        </td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/002.png" width="200px"/>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          Aplicativo de consulta e monitoramento de processos desenvolvido para um escritório de advocacia
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          Desenvolvido o seu frontend em Flutter e backend em Node/Express
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
