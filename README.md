@@ -141,14 +141,17 @@
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/002.png" width="200px"/>
         </td>
+        <td>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/003.png" width="200px"/>
+        </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td colspan="3">
           Aplicativo para registrar tarefas e chamados para equipes internas ou entre seus clientes, responsivo para vários tamanhos de tela
         </td>
       </tr>
       <tr>
-        <td colspan="2">
+        <td colspan="3">
           Desenvolvido o seu frontend em Angular 2 e backend em Node/Express
         </td>
       </tr>
