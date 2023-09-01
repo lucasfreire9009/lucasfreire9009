@@ -136,10 +136,10 @@
     <table>
       <tr>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="260px"/>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="300px"/>
         </td>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/002.png" width="250px"/>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/002.png" width="300px"/>
         </td>
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/003.png" width="100px"/>
@@ -162,10 +162,10 @@
     <table>
       <tr>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/001.png" width="250px"/>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/001.png" width="300px"/>
         </td>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/002.png" width="250px"/>
+          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/002.png" width="300px"/>
         </td>
       </tr>
       <tr>
