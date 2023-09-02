@@ -77,7 +77,7 @@
 <p>Segue alguns projetos desenvolvidos para terceiros ou que tive participações</p>
 <div class="pin-layout">  
   <div class="card">
-    <h3>Memprega</h3>
+    <h3>Aplicativos de vagas de empregos</h3>
     <table border="0">
       <tr>
         <td>
@@ -92,7 +92,7 @@
       </tr>
       <tr>
         <td colspan="3">
-          Memprega é um aplicativo que conecta candidatos a recrutadores para compartilhar vagas de empregos          
+          Aplicativo que conecta candidatos a recrutadores para compartilhar vagas de empregos          
         </td>
       </tr>
       <tr>
@@ -106,7 +106,7 @@
     </table>
   </div>  
   <div>
-    <h3>SOSTruck</h3>
+    <h3>App de serviços para caminhoneiros</h3>
     <table border="0">
       <tr>
         <td>
@@ -121,7 +121,7 @@
       </tr>
       <tr>
         <td colspan="3">
-          SOS Truck é um aplicativo desenvolvido para conectar caminhoneiros a empresas que prestam serviços de manutenção e afins para os usuários
+          Esse aplicativo foi desenvolvido com finalidade de conectar caminhoneiros as empresas que prestam serviços de manutenção e afins para os usuários caminhoneiros
         </td>
       </tr>
       <tr>
