@@ -138,9 +138,9 @@
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="300px"/>
         </td>
-        <td>
+<!--         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/002.png" width="300px"/>
-        </td>
+        </td> -->
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/003.png" width="100px"/>
         </td>
