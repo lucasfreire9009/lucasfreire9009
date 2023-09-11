@@ -17,7 +17,7 @@
     <td>CSS/SCSS</td>
     <td>Javascript</td>    
     <!--Backend-->
-    <td rowspan="3">PHP</td>
+    <td rowspan="3">PHP/Laravel</td>
     <td rowspan="3">Node/Express</td>
     <td rowspan="3">Python</td>
     <!--Backend-->
@@ -39,8 +39,9 @@
     <td>Docker</td>
    </tr>
    <tr>     
+    <td>Ionic Framework</td>
     <td>Web 3.0</td>
-    <td colspan="2"></td>
+    <td></td>
     <!--Backend-->
     <td>Solidity</td>
     <td>Metabase</td>
