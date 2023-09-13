@@ -68,7 +68,7 @@
       </a>
     </td>
     <td>
-      <a href="mailto:lukas.freire2011@gmail.com" target="_blank">lukas.freir2011@gmail.com</a>
+      <a href="mailto:lukas.freire2011@gmail.com" target="_blank">lukas.freire2011@gmail.com</a>
     </td>
   </tr>
 </table>
