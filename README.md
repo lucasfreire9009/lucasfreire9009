@@ -162,10 +162,10 @@
     <table>
       <tr>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/001.png" width="400px"/>
+          <img src="/assets/images/screen-1.png" width="400px"/>
         </td>
         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/oestagiario/002.png" width="400px"/>
+          <img src="/assets/images/screen-2.png" width="400px"/>
         </td>
       </tr>
       <tr>
