@@ -17,7 +17,7 @@
     <td>CSS/SCSS</td>
     <td>Javascript</td>    
     <!--Backend-->
-    <td rowspan="3">PHP</td>
+    <td rowspan="3">PHP/Laravel</td>
     <td rowspan="3">Node/Express</td>
     <td rowspan="3">Python</td>
     <!--Backend-->
@@ -39,8 +39,9 @@
     <td>Docker</td>
    </tr>
    <tr>     
+    <td>Ionic Framework</td>
     <td>Web 3.0</td>
-    <td colspan="2"></td>
+    <td></td>
     <!--Backend-->
     <td>Solidity</td>
     <td>Metabase</td>
@@ -67,7 +68,7 @@
       </a>
     </td>
     <td>
-      <a href="mailto:lukas.freire2011@gmail.com" target="_blank">lukas.freir2011@gmail.com</a>
+      <a href="mailto:lukas.freire2011@gmail.com" target="_blank">lukas.freire2011@gmail.com</a>
     </td>
   </tr>
 </table>
@@ -138,9 +139,9 @@
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="300px"/>
         </td>
-        <td>
+<!--         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/002.png" width="300px"/>
-        </td>
+        </td> -->
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/003.png" width="100px"/>
         </td>
