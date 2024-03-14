@@ -29,7 +29,7 @@
     <!--Frontend-->
     <td>Angular</td>    
     <td>React Native</td>
-    <td>Flutter</td>
+    <td>Vue.js</td>
 <!--<td></td>
     <td></td>
     <td></td> -->
