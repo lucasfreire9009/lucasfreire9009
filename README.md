@@ -58,7 +58,7 @@
       </a>
     </td>
     <td>
-      <a href="https://api.whatsapp.com/send?phone=5518991468285" target="_blank">18 99146 8285</a>
+      <a href="https://api.whatsapp.com/send?phone=5518991468285" target="_blank">18 99160 4584</a>
     </td>
   </tr>
   <tr>
