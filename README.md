@@ -34,18 +34,18 @@
     <td></td>
     <td></td> -->
     <!--Backend-->
-    <td>AWS</td>
-    <td>Google Cloud</td>
-    <td>Docker</td>
+    <td rowspan="2">AWS</td>
+    <td rowspan="2">Google Cloud</td>
+    <td rowspan="2">Docker</td>
    </tr>
    <tr>     
     <td>Ionic Framework</td>
     <td>Web 3.0</td>
     <td></td>
     <!--Backend-->
-    <td>Solidity</td>
+<!--     <td>Solidity</td>
     <td>Metabase</td>
-    <td>Looker Studio</td>    
+    <td>Looker Studio</td>  -->
   </tr>
 </table>
 
@@ -139,9 +139,6 @@
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="300px"/>
         </td>
-<!--         <td>
-          <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/002.png" width="300px"/>
-        </td> -->
         <td>
           <img src="https://storage.googleapis.com/arquivos-pessoais/chamados/003.png" width="100px"/>
         </td>
@@ -158,27 +155,4 @@
       </tr>
     </table>
   </div>
-  <!-- <div>
-    <h3>Publicações de processos</h3>
-    <table>
-      <tr>
-        <td>
-          <img src="/assets/images/screen-1.png" width="400px"/>
-        </td>
-        <td>
-          <img src="/assets/images/screen-2.png" width="400px"/>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          Aplicativo de consulta e monitoramento de processos desenvolvido para um escritório de advocacia
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          Desenvolvido o seu frontend em Flutter e backend em Node/Express
-        </td>
-      </tr>
-    </table>
-  </div> -->
 </div>
